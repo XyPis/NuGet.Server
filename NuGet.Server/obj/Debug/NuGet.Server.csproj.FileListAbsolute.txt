@@ -1,0 +1,16 @@
+D:\Git\NuGet.Server.git\NuGet.Server\obj\Debug\nuget.dll
+D:\Git\NuGet.Server.git\NuGet.Server\obj\Debug\nuget.pdb
+D:\Git\NuGet.Server.git\NuGet.Server\bin\nuget.dll.config
+D:\Git\NuGet.Server.git\NuGet.Server\bin\nuget.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\nuget.pdb
+D:\Git\NuGet.Server.git\NuGet.Server\bin\Elmah.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\Microsoft.Web.XmlTransform.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\Ninject.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\NuGet.Core.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\NuGet.Server.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\RouteMagic.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\WebActivatorEx.dll
+D:\Git\NuGet.Server.git\NuGet.Server\bin\Ninject.pdb
+D:\Git\NuGet.Server.git\NuGet.Server\bin\Ninject.xml
+D:\Git\NuGet.Server.git\NuGet.Server\obj\Debug\NuGet.Server.csprojResolveAssemblyReference.cache
