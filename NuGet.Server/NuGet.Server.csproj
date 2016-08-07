@@ -94,7 +94,6 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
-    <Content Include="Packages\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataServices\Routes.cs" />
@@ -108,13 +107,12 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
+    <Content Include="Packages\Readme.txt" />
     <Content Include="web.config">
       <SubType>Designer</SubType>
     </Content>
     <Content Include="NuGetServer.rar" />
+    <Content Include="packages.config" />
     <None Include="Properties\PublishProfiles\nuget.pubxml" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
